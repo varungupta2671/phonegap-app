@@ -7,7 +7,7 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         Varun Gupta
     </author>
-    <content src="index.html" />
+    <content src="www/index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
